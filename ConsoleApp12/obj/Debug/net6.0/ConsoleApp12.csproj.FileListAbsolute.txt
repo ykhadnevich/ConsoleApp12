@@ -1,0 +1,16 @@
+C:\Users\Asus\RiderProjects\ConsoleApp12\ConsoleApp12\bin\Debug\net6.0\ConsoleApp12.exe
+C:\Users\Asus\RiderProjects\ConsoleApp12\ConsoleApp12\bin\Debug\net6.0\ConsoleApp12.deps.json
+C:\Users\Asus\RiderProjects\ConsoleApp12\ConsoleApp12\bin\Debug\net6.0\ConsoleApp12.runtimeconfig.json
+C:\Users\Asus\RiderProjects\ConsoleApp12\ConsoleApp12\bin\Debug\net6.0\ConsoleApp12.dll
+C:\Users\Asus\RiderProjects\ConsoleApp12\ConsoleApp12\bin\Debug\net6.0\ref\ConsoleApp12.dll
+C:\Users\Asus\RiderProjects\ConsoleApp12\ConsoleApp12\bin\Debug\net6.0\ConsoleApp12.pdb
+C:\Users\Asus\RiderProjects\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.csproj.AssemblyReference.cache
+C:\Users\Asus\RiderProjects\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\RiderProjects\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.AssemblyInfoInputs.cache
+C:\Users\Asus\RiderProjects\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.AssemblyInfo.cs
+C:\Users\Asus\RiderProjects\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.csproj.CoreCompileInputs.cache
+C:\Users\Asus\RiderProjects\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.dll
+C:\Users\Asus\RiderProjects\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ref\ConsoleApp12.dll
+C:\Users\Asus\RiderProjects\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.pdb
+C:\Users\Asus\RiderProjects\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.genruntimeconfig.cache
+C:\Users\Asus\RiderProjects\ConsoleApp12\ConsoleApp12\bin\Debug\net6.0\File.txt
